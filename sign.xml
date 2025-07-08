@@ -1,0 +1,997 @@
+<mxlibrary>[
+ {
+    "data": "https://tadedit.net/dm/img/sign/%E9%99%9001.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%99%9002.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%99%9003.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%99%9004.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%99%9005.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%99%9006.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8101.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8102.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8103.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8103-1.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8103-2.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8104.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8104-1.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8105.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8106.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8106-1.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8106-2.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8106-3.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8106-4.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8106-5.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8106-6.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8107.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8109.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8110.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8110-1.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8117.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8117-1.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8117-2.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8117-3.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8117-4.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8117-5.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8117-6.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8117-7.png?v=1.15",
+    "w": 179,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8117-8.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8117-9.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8117-10.png?v=1.15",
+    "w": 179,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8117-11.png?v=1.15",
+    "w": 179,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8117-12.png?v=1.15",
+    "w": 179,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8118.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8118-1.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8118-2.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8118-3.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8118-4.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8118-5.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8118-6.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8118-7.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8118-8.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8118-9.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8118-10.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8118-11.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8118-12.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8119.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8119-1.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8119-2.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8119-3.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8120.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8120-1.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8121.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8121-1.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8122.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8122-1.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8123.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8124.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8125.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8126.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E7%A6%8127.png?v=1.15",
+    "w": 200,
+    "h": 200
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B501.png?v=1.15",
+    "w": 200,
+    "h": 200
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B502.png?v=1.15",
+    "w": 200,
+    "h": 175
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B507.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B508.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B509.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B509-1.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B510.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B516%E5%B7%A6.png?v=1.15",
+    "w": 140,
+    "h": 70
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B516%E5%8F%B3.png?v=1.15",
+    "w": 140,
+    "h": 70
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B517.png?v=1.15",
+    "w": 100,
+    "h": 100
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B511.png?v=1.15",
+    "w": 300,
+    "h": 200
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B512.png?v=1.15",
+    "w": 300,
+    "h": 200
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B513.png?v=1.15",
+    "w": 300,
+    "h": 200
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B514.png?v=1.15",
+    "w": 300,
+    "h": 200
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B515.png?v=1.15",
+    "w": 300,
+    "h": 200
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B518.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B519.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B520.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B520-1.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B521.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B522.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B523.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B523-1.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B523-2.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B523-3.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B523-4.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B524.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B524-1.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B524-2.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B525.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B525-1.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B530.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E9%81%B530-1.png?v=1.15",
+    "w": 180,
+    "h": 180
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A601.png?v=1.15",
+    "w": 240,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A602.png?v=1.15",
+    "w": 238,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A603.png?v=1.15",
+    "w": 239,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A604.png?v=1.15",
+    "w": 239,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A605.png?v=1.15",
+    "w": 239,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A606.png?v=1.15",
+    "w": 238,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A607.png?v=1.15",
+    "w": 240,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A608.png?v=1.15",
+    "w": 239,
+    "h": 206
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A609.png?v=1.15",
+    "w": 239,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A610.png?v=1.15",
+    "w": 238,
+    "h": 206
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A611.png?v=1.15",
+    "w": 240,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A611-1.png?v=1.15",
+    "w": 240,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A611-2.png?v=1.15",
+    "w": 240,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A611-3.png?v=1.15",
+    "w": 240,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A611-4.png?v=1.15",
+    "w": 240,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A612.png?v=1.15",
+    "w": 238,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A613.png?v=1.15",
+    "w": 237,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A614.png?v=1.15",
+    "w": 239,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A616.png?v=1.15",
+    "w": 240,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A615.png?v=1.15",
+    "w": 237,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A617.png?v=1.15",
+    "w": 240,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A618.png?v=1.15",
+    "w": 238,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A619.png?v=1.15",
+    "w": 240,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A620.png?v=1.15",
+    "w": 238,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A621.png?v=1.15",
+    "w": 239,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A622.png?v=1.15",
+    "w": 239,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A623.png?v=1.15",
+    "w": 240,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A624.png?v=1.15",
+    "w": 239,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A625.png?v=1.15",
+    "w": 240,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A626.png?v=1.15",
+    "w": 239,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A626-1.png?v=1.15",
+    "w": 239,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A630.png?v=1.15",
+    "w": 238,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A631.png?v=1.15",
+    "w": 240,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A632.png?v=1.15",
+    "w": 239,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A633.png?v=1.15",
+    "w": 239,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A634.png?v=1.15",
+    "w": 240,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A635.png?v=1.15",
+    "w": 240,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A636.png?v=1.15",
+    "w": 239,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A637.png?v=1.15",
+    "w": 240,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A639.png?v=1.15",
+    "w": 240,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A641.png?v=1.15",
+    "w": 240,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A642.png?v=1.15",
+    "w": 240,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A649.png?v=1.15",
+    "w": 239,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A650.png?v=1.15",
+    "w": 239,
+    "h": 207
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%AD%A652-2.png?v=1.15",
+    "w": 240,
+    "h": 210
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8701.png?v=1.15",
+    "w": 77,
+    "h": 75
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8702.png?v=1.15",
+    "w": 96,
+    "h": 99
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8702-1.png?v=1.15",
+    "w": 96,
+    "h": 99
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8703.png?v=1.15",
+    "w": 80,
+    "h": 80
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8703-1.png?v=1.15",
+    "w": 120,
+    "h": 80
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8704.png?v=1.15",
+    "w": 80,
+    "h": 60
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8733-1-1.png?v=1.15",
+    "w": 120,
+    "h": 270
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8733-1-2.png?v=1.15",
+    "w": 120,
+    "h": 270
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8733-1-3.png?v=1.15",
+    "w": 120,
+    "h": 270
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8745.png?v=1.15",
+    "w": 140,
+    "h": 70
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8746.png?v=1.15",
+    "w": 80,
+    "h": 120
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8749.png?v=1.15",
+    "w": 80,
+    "h": 120
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8753.png?v=1.15",
+    "w": 80,
+    "h": 120
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8753-1.png?v=1.15",
+    "w": 80,
+    "h": 120
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8753-2.png?v=1.15",
+    "w": 80,
+    "h": 120
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8753-3.png?v=1.15",
+    "w": 80,
+    "h": 120
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8753-4.png?v=1.15",
+    "w": 80,
+    "h": 120
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8753-5.png?v=1.15",
+    "w": 80,
+    "h": 120
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8754.png?v=1.15",
+    "w": 80,
+    "h": 120
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8755.png?v=1.15",
+    "w": 80,
+    "h": 120
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8756.png?v=1.15",
+    "w": 80,
+    "h": 120
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8757.png?v=1.15",
+    "w": 80,
+    "h": 120
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8758.png?v=1.15",
+    "w": 80,
+    "h": 120
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8762.png?v=1.15",
+    "w": 80,
+    "h": 120
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8763.png?v=1.15",
+    "w": 80,
+    "h": 120
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8764.png?v=1.15",
+    "w": 79,
+    "h": 120
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8765.png?v=1.15",
+    "w": 80,
+    "h": 120
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8766.png?v=1.15",
+    "w": 120,
+    "h": 360
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8766-1.png?v=1.15",
+    "w": 120,
+    "h": 360
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8767.png?v=1.15",
+    "w": 480,
+    "h": 320
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8767-0.png?v=1.15",
+    "w": 480,
+    "h": 320
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8C%8767-1.png?v=1.15",
+    "w": 480,
+    "h": 480
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%BC%942-1%E5%B7%A6.png?v=1.15",
+    "w": 120,
+    "h": 150
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%BC%942-1%E5%8F%B3.png?v=1.15",
+    "w": 120,
+    "h": 150
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%BC%942-2%E5%B7%A6.png?v=1.15",
+    "w": 360,
+    "h": 150
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%BC%942-2%E5%8F%B3.png?v=1.15",
+    "w": 360,
+    "h": 150
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E8%BC%942-3.png?v=1.15",
+    "w": 480,
+    "h": 150
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8B%926.png?v=1.15",
+    "w": 240,
+    "h": 100
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%8B%927.png?v=1.15",
+    "w": 240,
+    "h": 100
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%96%BD18.png?v=1.15",
+    "w": 200,
+    "h": 120
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%96%BD19.png?v=1.15",
+    "w": 200,
+    "h": 120
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%96%BD3.png?v=1.15",
+    "w": 255,
+    "h": 255
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%96%BD6.png?v=1.15",
+    "w": 255,
+    "h": 255
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%96%BD9.png?v=1.15",
+    "w": 255,
+    "h": 255
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%96%BD12.png?v=1.15",
+    "w": 255,
+    "h": 255
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%96%BD15.png?v=1.15",
+    "w": 255,
+    "h": 255
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%96%BD16.png?v=1.15",
+    "w": 255,
+    "h": 255
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%96%BD17.png?v=1.15",
+    "w": 255,
+    "h": 255
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%96%BD20.png?v=1.15",
+    "w": 255,
+    "h": 255
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%96%BD1.png?v=1.15",
+    "w": 255,
+    "h": 255
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%96%BD4.png?v=1.15",
+    "w": 255,
+    "h": 255
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%96%BD7.png?v=1.15",
+    "w": 255,
+    "h": 255
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%96%BD10.png?v=1.15",
+    "w": 255,
+    "h": 255
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E6%96%BD13.png?v=1.15",
+    "w": 255,
+    "h": 255
+  },
+  {
+    "data": "https://tadedit.net/dm/img/sign/%E5%8D%B13.png?v=1.15",
+    "w": 206,
+    "h": 206
+  }]
+</mxlibrary>
