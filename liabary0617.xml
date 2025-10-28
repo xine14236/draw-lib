@@ -3,54 +3,89 @@
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"A\" style=\"ellipse;whiteSpace=wrap;html=1;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"30\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 30,
     "h": 30,
-    "aspect": "fixed"
+    "aspect": "fixed",
+    "title": "事故主體"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagGrid;step=5;fillStrokeWidth=0.2;fillStrokeColor=#FFA500;align=center;fontFamily=Helvetica;fontSize=12;strokeColor=#FFA500;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"2.2737367544323206e-13\" width=\"153\" height=\"55\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 153,
     "h": 55,
-    "aspect": "fixed"
+    "aspect": "fixed",
+    "title": "網狀線"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#FFFFFF;strokeColor=#FFA500;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"397\" height=\"22\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 397,
     "h": 22,
-    "aspect": "fixed"
+    "aspect": "fixed",
+    "title": "分隔島"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"206\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;object label=\"%length%\" placeholders=\"1\" id=\"3\"&gt;&lt;mxCell style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;horizontal=0;\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.2567\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 0.8333333333333334,
-    "h": 205.99999999999994,
-    "aspect": "fixed"
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"100\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;object label=\"%length%\" placeholders=\"1\" id=\"3\"&gt;&lt;mxCell style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;horizontal=0;\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.2567\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "輔助線1"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=baseDash;startArrow=baseDash;html=1;rounded=0;targetPerimeterSpacing=0;startFill=0;endFill=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"100\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;object label=\"%length%\" placeholders=\"1\" id=\"3\"&gt;&lt;mxCell style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;horizontal=0;\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.2567\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 0.2298850574712644,
     "h": 100.00000000000001,
-    "aspect": "fixed"
+    "aspect": "fixed",
+    "title": "輔助線2"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"line;strokeWidth=1;direction=south;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"1\" height=\"160\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 1,
     "h": 160,
-    "aspect": "fixed"
+    "aspect": "fixed",
+    "title": "垂直道路"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"line;strokeWidth=1;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"2.2737367544323206e-13\" width=\"180\" height=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 180,
     "h": 1,
+    "aspect": "fixed",
+    "title": "水平道路"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"curved=1;endArrow=none;html=1;rounded=0;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"47\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"73\" as=\"targetPoint\"/&gt;&lt;Array as=\"points\"&gt;&lt;mxPoint x=\"64\" y=\"50\"/&gt;&lt;/Array&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 72.5,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "路口弧線"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=link;html=1;rounded=0;strokeColor=#FFF324;width=-2.325581395348837;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"100\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"65\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 65,
+    "h": 0.23255813953488372,
+    "aspect": "fixed",
+    "title": "雙黃線"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"curved=1;endArrow=none;html=1;rounded=0;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFF324;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"73\" as=\"targetPoint\"/&gt;&lt;Array as=\"points\"&gt;&lt;mxPoint x=\"64\"/&gt;&lt;/Array&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 73,
+    "h": 0.1111111111111111,
+    "aspect": "fixed",
+    "title": "黃線"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#aaa9aa, #ededed);fillColor=none;rotation=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"-5.684341886080802e-14\" width=\"30.09\" height=\"18.37\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30.09,
+    "h": 18.37,
     "aspect": "fixed"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=vert;step=20;fillStrokeWidth=8;fillStrokeColor=#dddddd;strokeColor=none;strokeWidth=0;fillColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"184\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"line;strokeWidth=2;html=1;rotation=0;strokeColor=light-dark(#aaa9aa, #ededed);\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"21.11\" height=\"2\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 21.11,
+    "h": 2,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=vert;step=10;fillStrokeWidth=4;fillStrokeColor=#dddddd;strokeColor=none;strokeWidth=0;fillColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"184\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 184,
     "h": 60,
-    "aspect": "fixed"
-  },
-  {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"1055\" height=\"751\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;lt;font&amp;gt;交通事故現場圖&amp;lt;/font&amp;gt;\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFFFFF;container=0;fontSize=41;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"1054.999999999999\" height=\"98.38427947598254\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFFFFF;container=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"605.7111716621253\" width=\"1055\" height=\"145.28882833787463\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;direction=south;strokeColor=#FFFFFF;container=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"20.427107061503406\" height=\"734.5985985401459\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"6\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;direction=south;strokeColor=#FFFFFF;container=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"1034.572892938496\" width=\"20.427107061503406\" height=\"734.5985985401459\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"7\" value=\"金門縣政府警察局\" style=\"text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;rounded=0;container=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"25.114419187789267\" y=\"55.67762387966776\" width=\"182.09087506804568\" height=\"31.037869751908396\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"8\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;container=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"20.82832618025747\" y=\"99.464155528554\" width=\"1013.3433476394845\" height=\"0.9125151883353578\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"9\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;container=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"21.685508735868407\" y=\"606.7343324250681\" width=\"1011.5747687564234\" height=\"0.9106130790190737\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"10\" value=\"\" style=\"line;strokeWidth=2;direction=south;html=1;container=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"1033.2625106382975\" y=\"99.91763349514567\" width=\"0.9068510638297868\" height=\"589.1066383495147\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"11\" value=\"\" style=\"line;strokeWidth=2;direction=south;html=1;container=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"20.828931140801707\" y=\"99.12381471389642\" width=\"0.9107913669064746\" height=\"591.5097002724794\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"12\" value=\"製圖人:\" style=\"text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;flipV=1;container=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"30.527659574468117\" y=\"690.8470873786408\" width=\"202.91914893617016\" height=\"27.342233009708735\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"13\" value=\"主管:\" style=\"text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;flipV=1;container=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"286.4212765957446\" y=\"690.8470873786408\" width=\"202.91914893617016\" height=\"27.342233009708735\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"14\" value=\"處理單位:\" style=\"text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;flipV=1;fontStyle=1;container=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"541.4170212765956\" y=\"690.8470873786408\" width=\"202.91914893617016\" height=\"27.342233009708735\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"15\" value=\"時間:\" style=\"text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;flipV=1;fontStyle=1;container=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"797.310638297872\" y=\"690.8470873786408\" width=\"202.91914893617016\" height=\"27.342233009708735\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"16\" value=\"\" style=\"line;strokeWidth=2;html=1;container=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"20.82832618025747\" y=\"689.0242718446602\" width=\"1013.3433476394845\" height=\"0.9125151883353578\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"17\" value=\"現場處理摘要\" style=\"text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;strokeWidth=2;spacing=2;spacingTop=0;labelPosition=center;verticalLabelPosition=middle;container=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"21.687771482530668\" y=\"607.0379171894605\" width=\"69.96473087818697\" height=\"82.71365119196989\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"18\" value=\"備考\" style=\"text;strokeColor=default;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;strokeWidth=2;spacing=2;spacingTop=0;labelPosition=center;verticalLabelPosition=middle;container=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"889.6231363917366\" y=\"607.0397914864666\" width=\"24.027543679342237\" height=\"82.71231607629427\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 1055,
-    "h": 751,
-    "aspect": "fixed"
+    "aspect": "fixed",
+    "title": "行人穿越線"
   }
 ]</mxlibrary>
