@@ -106,10 +106,9 @@
     "title": "行駛方向"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" edge=\"1\" parent=\"1\" source=\"3\" style=\"rounded=0;orthogonalLoop=1;jettySize=auto;html=1;\" target=\"4\" value=\"\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" parent=\"1\" style=\"ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"80\" width=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" parent=\"1\" style=\"whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"60\" width=\"120\" x=\"110\" y=\"160\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" edge=\"1\" parent=\"1\" source=\"3\" style=\"rounded=0;orthogonalLoop=1;jettySize=auto;html=1;\" target=\"4\" value=\"\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" parent=\"1\" style=\"ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"80\" width=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" parent=\"1\" style=\"whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;\" value=\"&amp;lt;font style=&amp;quot;font-size: 16px;&amp;quot;&amp;gt;請輸入說明&amp;lt;/font&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"60\" width=\"120\" x=\"110\" y=\"160\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 230,
     "h": 220,
-    "aspect": "fixed",
-    "title": "改善方案"
+    "aspect": "fixed"
   }
 ]</mxlibrary>
