@@ -1,32 +1,32 @@
-<mxlibrary title='行人與車種'>
+<mxlibrary title='行人與車種' >
 [
   {
-    "data": "https://collision-backend.mantatech.site/storage/drawio/Frame 303.svg",
+    "data": "https://collision-backend.mantatech.site/drawio/pedestrian_car_type/Frame 303.svg",
     "w": 100,
     "h": 200
   },
   {
-    "data": "https://collision-backend.mantatech.site/storage/drawio/Frame 304.svg",
+    "data": "https://collision-backend.mantatech.site/drawio/pedestrian_car_type/Frame 304.svg",
     "w": 100,
     "h": 200
   },
   {
-    "data": "https://collision-backend.mantatech.site/storage/drawio/Frame 305.svg",
+    "data": "https://collision-backend.mantatech.site/drawio/pedestrian_car_type/Frame 305.svg",
     "w": 200,
     "h": 100
   },
   {
-    "data": "https://collision-backend.mantatech.site/storage/drawio/Frame 306.svg",
+    "data": "https://collision-backend.mantatech.site/drawio/pedestrian_car_type/Frame 306.svg",
     "w": 244,
     "h": 100
   },
   {
-    "data": "https://collision-backend.mantatech.site/storage/drawio/Frame 307.svg",
+    "data": "https://collision-backend.mantatech.site/drawio/pedestrian_car_type/Frame 307.svg",
     "w": 200,
     "h": 100
   },
   {
-    "data": "https://collision-backend.mantatech.site/storage/drawio/Frame 308.svg",
+    "data": "https://collision-backend.mantatech.site/drawio/pedestrian_car_type/Frame 308.svg",
     "w": 200,
     "h": 100
   }
