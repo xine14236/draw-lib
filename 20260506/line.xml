@@ -115,37 +115,37 @@
     "title": "分隔島"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagGrid;step=5;fillStrokeWidth=0.2;fillStrokeColor=#FFA500;align=center;fontFamily=Helvetica;fontSize=12;strokeColor=#FFA500;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"2.2737367544323206e-13\" width=\"153\" height=\"55\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0,1],[1,1],[1,0]];polyCurves=[[],[],[]];polyline=0;whiteSpace=wrap;html=1;fillStyle=cross-hatch;fillColor=#FFA500;strokeColor=#FFA500;fixDash=0;miterlimit=8;treeMoving=0;enumerate=0;comic=0;shadow=0;rotation=0;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"54\" width=\"153\" x=\"2.2737367544323206e-13\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 153,
-    "h": 55,
+    "h": 54,
     "aspect": "fixed",
     "title": "網狀線"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#FFA500;align=center;fontFamily=Helvetica;fontSize=12;strokeColor=#FFA500;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"2.2737367544323206e-13\" width=\"153\" height=\"55\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0,1],[1,1],[1,0]];polyCurves=[[],[],[]];polyline=0;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#FFA500;strokeColor=#FFA500;fixDash=0;miterlimit=8;treeMoving=0;enumerate=0;comic=0;shadow=0;rotation=0;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"54\" width=\"153\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 153,
-    "h": 55,
+    "h": 54,
     "aspect": "fixed",
     "title": "槽化線(左)"
   },
     {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagRev;step=5;fillStrokeWidth=0.2;fillStrokeColor=#FFA500;align=center;fontFamily=Helvetica;fontSize=12;strokeColor=#FFA500;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"2.2737367544323206e-13\" width=\"153\" height=\"55\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+ "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0,1],[1,1],[1,0]];polyCurves=[[],[],[]];polyline=0;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#FFA500;strokeColor=#FFA500;fixDash=0;miterlimit=8;treeMoving=0;enumerate=0;comic=0;shadow=0;rotation=0;direction=south;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"54\" width=\"153\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 153,
-    "h": 55,
+    "h": 54,
     "aspect": "fixed",
     "title": "槽化線(右)"
   },
    {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#959695;align=center;fontFamily=Helvetica;fontSize=12;strokeColor=#bfc1c2;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"2.2737367544323206e-13\" width=\"153\" height=\"55\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0,1],[1,1],[1,0]];polyCurves=[[],[],[]];polyline=0;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#bfc1c2;strokeColor=#959695;fixDash=0;miterlimit=8;treeMoving=0;enumerate=0;comic=0;shadow=0;rotation=0;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"54\" width=\"153\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 153,
-    "h": 55,
+    "h": 54,
     "aspect": "fixed",
     "title": "槽化線灰(左)"
   },
      {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagRev;step=5;fillStrokeWidth=0.2;fillStrokeColor=#959695;align=center;fontFamily=Helvetica;fontSize=12;strokeColor=#bfc1c2;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"2.2737367544323206e-13\" width=\"153\" height=\"55\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+ "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0,1],[1,1],[1,0]];polyCurves=[[],[],[]];polyline=0;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#bfc1c2;strokeColor=#959695;fixDash=0;miterlimit=8;treeMoving=0;enumerate=0;comic=0;shadow=0;rotation=0;direction=south;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"54\" width=\"153\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 153,
-    "h": 55,
+    "h": 54,
     "aspect": "fixed",
     "title": "槽化線灰(右)"
   }
