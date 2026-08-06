@@ -47,5 +47,11 @@
     "h": 0.6451612903225806,
     "aspect": "fixed",
      "title": "比例尺"
+  },
+    {
+    "data": "https://collision-backend.mantatech.site/drawio/sign/Compass.svg",
+    "w": 100,
+    "h": 200,
+     "title": "指北針"
   }
 ]</mxlibrary>
