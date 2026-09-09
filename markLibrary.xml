@@ -1,4 +1,4 @@
-<mxlibrary title='標示' >
+<mxlibrary title='標誌' >
 [
   {
     "data": "https://collision-backend.mantatech.site/drawio/mark/Taiwan_(ROC)_proposed_road_sign_-_pedestrian_crossing_行人穿越道標誌提案.svg",
@@ -1157,13 +1157,23 @@
 },
 {
   "data": "https://collision-backend.mantatech.site/drawio/mark/Taiwan_road_sign_警-34.svg",
-  "w": 322,
-  "h": 282
+  "w": 251,
+  "h": 250
 },
 {
   "data": "https://collision-backend.mantatech.site/drawio/mark/Taiwan_road_sign_警-35.svg",
   "w": 322,
   "h": 282
+},
+{
+  "data": "https://collision-backend.mantatech.site/drawio/mark/Taiwan_road_sign_警-36.png",
+  "w": 250,
+  "h": 428.99
+},
+{
+  "data": "https://collision-backend.mantatech.site/drawio/mark/Taiwan_road_sign_警-37.png",
+  "w": 250,
+  "h": 116.93
 }
 ]
 </mxlibrary>
